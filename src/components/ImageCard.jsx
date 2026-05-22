@@ -73,7 +73,7 @@ function ImageCard({
         />
 
         {/* Hover overlay with image details */}
-        <div className="absolute inset-0 flex items-end bg-linear-to-t from-black/60 via-black/15 to-transparent opacity-0 transition duration-500 group-hover:opacity-100">
+        <div className="absolute inset-0 flex items-end bg-linear-to-t from-black/60 via-black/15 to-transparent opacity-100 transition duration-500 md:opacity-0 md:group-hover:opacity-100">
           <div className="w-full translate-y-2 p-4 text-white transition duration-500 group-hover:translate-y-0">
             <h3 className="text-base font-semibold">{image.title}</h3>
 
