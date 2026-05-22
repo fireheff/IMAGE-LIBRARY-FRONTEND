@@ -20,8 +20,6 @@ const jwt = require("jsonwebtoken");
 const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || "change-this-password";
 const JWT_SECRET = process.env.JWT_SECRET || "change-this-secret";
 
-console.log("ACTIVE ADMIN PASSWORD:", ADMIN_PASSWORD);
-
 // Compression quality for generated WebP images.
 const WEBP_QUALITY = 80;
 
@@ -41,6 +39,11 @@ app.use(express.json());
 app.use("/uploads", express.static(path.join(__dirname, "uploads")));
 
 app.post("/admin/login", (req, res) => {
+  console.log("LOGIN BODY:", req.body);
+  console.log("ADMIN_PASSWORD EXISTS:", Boolean(process.env.ADMIN_PASSWORD));
+  console.log("ADMIN_PASSWORD LENGTH:", process.env.ADMIN_PASSWORD?.length);
+  console.log("ENTERED PASSWORD LENGTH:", req.body?.password?.length);
+
   const { password } = req.body;
 
   if (password !== ADMIN_PASSWORD) {
