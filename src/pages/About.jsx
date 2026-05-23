@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import { getTextClasses } from "../styles/buttonClasses";
+import poppies from "../assets/ui/poppies.jpg";
 
 // About page.
 // Introduces the project concept, photography style, and design philosophy.
@@ -85,9 +86,10 @@ export default function About({ theme = "light" }) {
           >
             {/* About page image */}
             <img
-              src="src/assets/ui/poppies.jpg"
-              alt="Gallery atmosphere"
-              className="h-105 w-full object-cover transition duration-700 hover:scale-[1.08] md:h-140"
+              src={poppies}
+              alt="Poppies"
+              className="h-105 w-full object-cover
+            transition duration-700 hover:scale-[1.08] md:h-140"
             />
           </div>
         </motion.div>
