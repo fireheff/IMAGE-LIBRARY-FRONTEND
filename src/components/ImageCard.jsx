@@ -75,14 +75,16 @@ function ImageCard({
         {/* Hover overlay with image details */}
         <div className="absolute inset-0 flex items-end bg-linear-to-t from-black/60 via-black/15 to-transparent opacity-100 transition duration-500 xl:opacity-0 xl:group-hover:opacity-100">
           <div className="w-full translate-y-2 p-4 text-white transition duration-500 group-hover:translate-y-0">
-            <h3 className="text-base font-semibold">{image.title}</h3>
+            <h3 className="text-base font-semibold opacity-50">
+              {image.title}
+            </h3>
 
             {image.category && (
-              <p className="text-sm text-white/80">{image.category}</p>
+              <p className="text-sm text-white/60">{image.category}</p>
             )}
 
             {displayPrice && (
-              <p className="mt-1 text-sm font-medium">
+              <p className="mt-1 text-sm opacity-50 font-medium">
                 {image.variants ? `from €${displayPrice}` : `€${displayPrice}`}
               </p>
             )}

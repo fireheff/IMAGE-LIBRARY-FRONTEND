@@ -1000,7 +1000,7 @@
   },
   {
     "id": "0f913ec3-b473-4e2b-9b77-a6427a7bc837",
-    "title": "Corn",
+    "title": "Wheat",
     "originalTitle": "20140702-_MG_1886",
     "originalFilename": "20140702-_MG_1886.jpg",
     "uploadedAt": "2026-04-28T15:58:46.221Z",
@@ -2174,7 +2174,7 @@
   },
   {
     "id": "dd7c9307-cc03-40c3-90f6-36a5fd96035c",
-    "title": "Marrakech, Morocco",
+    "title": "Chicken Shop, Essaouira, Morocco",
     "originalTitle": "20191129-Marrakech-89",
     "originalFilename": "20191129-Marrakech-89.jpg",
     "uploadedAt": "2026-04-28T15:59:16.507Z",
@@ -2206,7 +2206,8 @@
         "url": "http://localhost:4000/uploads/4120ec14-9cf9-4f40-b3e1-76c8c1974e10-20191129-Marrakech-89-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "ad94d4c7-0c56-4e30-929f-1deb6d06289a",
@@ -2247,7 +2248,7 @@
   },
   {
     "id": "dce58aee-684e-4bea-a1bd-bfc284c824a2",
-    "title": "Marrakech, Morocco",
+    "title": "Palace, Marrakech, Morocco",
     "originalTitle": "20191202-Marrakech-160",
     "originalFilename": "20191202-Marrakech-160.jpg",
     "uploadedAt": "2026-04-28T15:59:17.663Z",
@@ -2279,7 +2280,8 @@
         "url": "http://localhost:4000/uploads/5f8008a4-d307-47a7-aea0-e60c0dfab96d-20191202-Marrakech-160-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "52222bca-3702-4963-bf54-712c5ae861d2",
@@ -3870,7 +3872,7 @@
   },
   {
     "id": "06aa8ccd-f190-47da-942a-c0499ed8dec9",
-    "title": "Philharmonie (1 of 1)",
+    "title": "Philharmonie and friends, Luxembourg",
     "originalTitle": "20111230-Philharmonie (1 of 1)",
     "originalFilename": "20111230-Philharmonie (1 of 1).jpg",
     "uploadedAt": "2026-04-29T22:11:18.628Z",
@@ -5679,7 +5681,7 @@
   },
   {
     "id": "404b3b5c-6a96-4423-b0ab-57c9138e13d6",
-    "title": "School in penburg, The Hague, The Netherlands",
+    "title": "School in Ypenburg, The Hague, The Netherlands",
     "originalTitle": "20101007-_MG_2317-Edit",
     "originalFilename": "20101007-_MG_2317-Edit.jpg",
     "uploadedAt": "2026-04-30T11:22:14.436Z",
@@ -6196,45 +6198,8 @@
     "price": 40
   },
   {
-    "id": "b50a4dcf-e1c0-4603-90f0-460434e930d3",
-    "title": "Chicken Shop, Morocco",
-    "originalTitle": "Morocco_image_1",
-    "originalFilename": "Morocco_image_1.jpg",
-    "uploadedAt": "2026-04-30T11:35:25.725Z",
-    "width": 1617,
-    "height": 1080,
-    "fileHash": "112d96e8c35c96be53ed320d632ad8c3d5a602231206c2c068e4ff529dbe929a",
-    "category": "Travel",
-    "gallery": true,
-    "galleryOrder": 107,
-    "featured": false,
-    "hero": false,
-    "inShop": false,
-    "intro": false,
-    "file": "85da1b7f-8cf1-410b-852c-637516b1dbbd-Morocco_image_1-m.webp",
-    "url": "http://localhost:4000/uploads/85da1b7f-8cf1-410b-852c-637516b1dbbd-Morocco_image_1-m.webp",
-    "variants": {
-      "s": {
-        "file": "85da1b7f-8cf1-410b-852c-637516b1dbbd-Morocco_image_1-s.webp",
-        "url": "http://localhost:4000/uploads/85da1b7f-8cf1-410b-852c-637516b1dbbd-Morocco_image_1-s.webp",
-        "price": 15
-      },
-      "m": {
-        "file": "85da1b7f-8cf1-410b-852c-637516b1dbbd-Morocco_image_1-m.webp",
-        "url": "http://localhost:4000/uploads/85da1b7f-8cf1-410b-852c-637516b1dbbd-Morocco_image_1-m.webp",
-        "price": 25
-      },
-      "l": {
-        "file": "85da1b7f-8cf1-410b-852c-637516b1dbbd-Morocco_image_1-l.webp",
-        "url": "http://localhost:4000/uploads/85da1b7f-8cf1-410b-852c-637516b1dbbd-Morocco_image_1-l.webp",
-        "price": 40
-      }
-    },
-    "price": 40
-  },
-  {
     "id": "96cfb344-5825-45db-a4d5-d9c20db44c08",
-    "title": "Morocco_image_3",
+    "title": "Market scene, Marrakech, Morocco",
     "originalTitle": "Morocco_image_3",
     "originalFilename": "Morocco_image_3.jpg",
     "uploadedAt": "2026-04-30T11:35:26.185Z",
@@ -6266,11 +6231,12 @@
         "url": "http://localhost:4000/uploads/0b951338-bac2-4818-8054-c1661e886ad0-Morocco_image_3-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "a0c6d0f0-cbcc-4e07-ab1d-94eb79475a60",
-    "title": "Morocco_image_6",
+    "title": "Market, Essaouira, Morocco",
     "originalTitle": "Morocco_image_6",
     "originalFilename": "Morocco_image_6.jpg",
     "uploadedAt": "2026-04-30T11:35:26.850Z",
@@ -6302,11 +6268,12 @@
         "url": "http://localhost:4000/uploads/4de74e31-c48f-4cdf-aa09-22dc1508448d-Morocco_image_6-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "46c456bb-bbc0-46dc-a0cb-f7212ffaa5c1",
-    "title": "Morocco_image_8",
+    "title": "Chicken Shop, Market, Essaouira, Morocco",
     "originalTitle": "Morocco_image_8",
     "originalFilename": "Morocco_image_8.jpg",
     "uploadedAt": "2026-04-30T11:35:27.322Z",
@@ -6338,11 +6305,12 @@
         "url": "http://localhost:4000/uploads/0bbe5c14-8a62-4a1d-a862-55906507745a-Morocco_image_8-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "d4971cf4-68de-4815-ba99-a80874686127",
-    "title": "motorbikes_image_1",
+    "title": "How to get to school quickly?, Vietnam",
     "originalTitle": "motorbikes_image_1",
     "originalFilename": "motorbikes_image_1.jpg",
     "uploadedAt": "2026-04-30T11:35:27.657Z",
@@ -6374,47 +6342,12 @@
         "url": "http://localhost:4000/uploads/f7e92d12-8650-4bd9-9233-8eb13edf0a5f-motorbikes_image_1-l.webp",
         "price": 40
       }
-    }
-  },
-  {
-    "id": "ca911881-1f53-47df-924b-318e12d58b0d",
-    "title": "motorbikes_image_4",
-    "originalTitle": "motorbikes_image_4",
-    "originalFilename": "motorbikes_image_4.jpg",
-    "uploadedAt": "2026-04-30T11:35:28.121Z",
-    "width": 1620,
-    "height": 1080,
-    "fileHash": "e85f7e63bfe022fd0994c9043cb188a133265b7791a06981a9d61ebacc6524ba",
-    "category": "Travel",
-    "gallery": true,
-    "galleryOrder": 151,
-    "featured": false,
-    "hero": false,
-    "inShop": false,
-    "intro": false,
-    "file": "44a081a4-fbac-4ee1-9980-d6d1ebfea6c2-motorbikes_image_4-m.webp",
-    "url": "http://localhost:4000/uploads/44a081a4-fbac-4ee1-9980-d6d1ebfea6c2-motorbikes_image_4-m.webp",
-    "variants": {
-      "s": {
-        "file": "44a081a4-fbac-4ee1-9980-d6d1ebfea6c2-motorbikes_image_4-s.webp",
-        "url": "http://localhost:4000/uploads/44a081a4-fbac-4ee1-9980-d6d1ebfea6c2-motorbikes_image_4-s.webp",
-        "price": 15
-      },
-      "m": {
-        "file": "44a081a4-fbac-4ee1-9980-d6d1ebfea6c2-motorbikes_image_4-m.webp",
-        "url": "http://localhost:4000/uploads/44a081a4-fbac-4ee1-9980-d6d1ebfea6c2-motorbikes_image_4-m.webp",
-        "price": 25
-      },
-      "l": {
-        "file": "44a081a4-fbac-4ee1-9980-d6d1ebfea6c2-motorbikes_image_4-l.webp",
-        "url": "http://localhost:4000/uploads/44a081a4-fbac-4ee1-9980-d6d1ebfea6c2-motorbikes_image_4-l.webp",
-        "price": 40
-      }
-    }
+    },
+    "price": 40
   },
   {
     "id": "18d593d2-a8a9-40c3-9396-a21fe04d4ea1",
-    "title": "motorbikes_image_5",
+    "title": "Dangerous transport, Vietnam",
     "originalTitle": "motorbikes_image_5",
     "originalFilename": "motorbikes_image_5.jpg",
     "uploadedAt": "2026-04-30T11:35:28.300Z",
@@ -6446,11 +6379,12 @@
         "url": "http://localhost:4000/uploads/e83579a5-3b95-4ed4-8f79-37dd389866ed-motorbikes_image_5-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "8d2dd974-3565-4e0a-859a-4cd23aedf720",
-    "title": "motorbikes_image_6",
+    "title": "Dangerous transport 2, Vietnam",
     "originalTitle": "motorbikes_image_6",
     "originalFilename": "motorbikes_image_6.jpg",
     "uploadedAt": "2026-04-30T11:35:28.458Z",
@@ -6482,11 +6416,12 @@
         "url": "http://localhost:4000/uploads/7dfdae30-36fc-4600-8e03-0a1444ec0fbc-motorbikes_image_6-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "38032acf-8803-4e60-ad6e-b1b699bba479",
-    "title": "city_image_4",
+    "title": "Brooklyn Bridge by night, New York, City",
     "originalTitle": "city_image_4",
     "originalFilename": "city_image_4.jpg",
     "uploadedAt": "2026-04-30T11:36:38.965Z",
@@ -6518,11 +6453,12 @@
         "url": "http://localhost:4000/uploads/fd65aa09-cb05-4117-9a1d-4a6af153d346-city_image_4-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "6b563bf7-f606-4841-8c14-d2adb62543b1",
-    "title": "ext_image_2",
+    "title": "Erasmus Bridge partly covered, Rotterdam, The Netherlands",
     "originalTitle": "ext_image_2",
     "originalFilename": "ext_image_2.jpg",
     "uploadedAt": "2026-04-30T11:37:08.362Z",
@@ -6554,11 +6490,12 @@
         "url": "http://localhost:4000/uploads/28bf8407-0ffe-40f1-a9d9-2be0e7579089-ext_image_2-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "50fd633d-b320-4213-ac6e-cb5d48d42cd9",
-    "title": "ext_image_4",
+    "title": "Railway Station by Calatrava, Liège, Belgium",
     "originalTitle": "ext_image_4",
     "originalFilename": "ext_image_4.jpg",
     "uploadedAt": "2026-04-30T11:37:09.005Z",
@@ -6590,11 +6527,12 @@
         "url": "http://localhost:4000/uploads/960824db-e3bc-45a4-90a4-ccd7b1925cfc-ext_image_4-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "5da89343-d213-46da-a146-87fd446e622c",
-    "title": "ext_image_7",
+    "title": "Cubic Houses, Rotterdam, The Netherlands",
     "originalTitle": "ext_image_7",
     "originalFilename": "ext_image_7.jpg",
     "uploadedAt": "2026-04-30T11:37:09.679Z",
@@ -6626,11 +6564,12 @@
         "url": "http://localhost:4000/uploads/896a5e25-d183-45ba-b90c-c158791b17b1-ext_image_7-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "c4e69cd6-c22f-488a-ad84-3602d4ddd13f",
-    "title": "street_image_2",
+    "title": "Amsterdam Street scene",
     "originalTitle": "street_image_2",
     "originalFilename": "street_image_2.jpg",
     "uploadedAt": "2026-04-30T11:38:15.122Z",
@@ -6662,47 +6601,12 @@
         "url": "http://localhost:4000/uploads/95e32f72-932a-49ad-83a3-77d1fc9f4126-street_image_2-l.webp",
         "price": 40
       }
-    }
-  },
-  {
-    "id": "b0608946-550c-4ef7-aa87-a1de6017f8d5",
-    "title": "street_image_3",
-    "originalTitle": "street_image_3",
-    "originalFilename": "street_image_3.jpg",
-    "uploadedAt": "2026-04-30T11:38:15.275Z",
-    "width": 1560,
-    "height": 1080,
-    "fileHash": "d3d4a6954738b4b2f17593153e493ac96a0a04ded2245cfa60fd5702b8a6eb5f",
-    "category": "Street",
-    "gallery": true,
-    "galleryOrder": 193,
-    "featured": false,
-    "hero": false,
-    "inShop": false,
-    "intro": false,
-    "file": "3e3ed006-ac8a-44b9-9f29-64c66630d945-street_image_3-m.webp",
-    "url": "http://localhost:4000/uploads/3e3ed006-ac8a-44b9-9f29-64c66630d945-street_image_3-m.webp",
-    "variants": {
-      "s": {
-        "file": "3e3ed006-ac8a-44b9-9f29-64c66630d945-street_image_3-s.webp",
-        "url": "http://localhost:4000/uploads/3e3ed006-ac8a-44b9-9f29-64c66630d945-street_image_3-s.webp",
-        "price": 15
-      },
-      "m": {
-        "file": "3e3ed006-ac8a-44b9-9f29-64c66630d945-street_image_3-m.webp",
-        "url": "http://localhost:4000/uploads/3e3ed006-ac8a-44b9-9f29-64c66630d945-street_image_3-m.webp",
-        "price": 25
-      },
-      "l": {
-        "file": "3e3ed006-ac8a-44b9-9f29-64c66630d945-street_image_3-l.webp",
-        "url": "http://localhost:4000/uploads/3e3ed006-ac8a-44b9-9f29-64c66630d945-street_image_3-l.webp",
-        "price": 40
-      }
-    }
+    },
+    "price": 40
   },
   {
     "id": "9ae2960b-652d-4e64-b2a0-6570e023145f",
-    "title": "street_image_4",
+    "title": "Wedding gathering, New York City",
     "originalTitle": "street_image_4",
     "originalFilename": "street_image_4.jpg",
     "uploadedAt": "2026-04-30T11:38:15.538Z",
@@ -6734,11 +6638,12 @@
         "url": "http://localhost:4000/uploads/e465839b-d684-4389-8640-5f5760f4ee4e-street_image_4-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "3a527682-1db0-4948-86ce-4c19fb798b5e",
-    "title": "street_image_5",
+    "title": "Coffee Break, The Hague, The Netherlands",
     "originalTitle": "street_image_5",
     "originalFilename": "street_image_5.jpg",
     "uploadedAt": "2026-04-30T11:38:15.744Z",
@@ -6770,11 +6675,12 @@
         "url": "http://localhost:4000/uploads/5c6c62b7-80fe-4ec9-8888-01891d2f5868-street_image_5-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "82595927-c6ae-4327-8685-67f1b9497e6a",
-    "title": "street_image_6",
+    "title": "Catch me if you can, New York City graphiti",
     "originalTitle": "street_image_6",
     "originalFilename": "street_image_6.jpg",
     "uploadedAt": "2026-04-30T11:38:16.001Z",
@@ -6806,11 +6712,12 @@
         "url": "http://localhost:4000/uploads/0d79c7f2-7022-43cf-a17f-f7f4f7ffae87-street_image_6-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "07c1e14e-a9e4-42fe-a955-a96ffcdd9b66",
-    "title": "street_image_9",
+    "title": "Market scene, Porto, Portugal",
     "originalTitle": "street_image_9",
     "originalFilename": "street_image_9.jpg",
     "uploadedAt": "2026-04-30T11:38:16.569Z",
@@ -6842,11 +6749,12 @@
         "url": "http://localhost:4000/uploads/0a2a5ba2-8aba-44b2-842b-a2666a947dad-street_image_9-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "8d4bafb0-8940-4422-b0cc-a296179d0c07",
-    "title": "struct_image_5",
+    "title": "New and old buildings, Ho Chi Minh City, Vietnam",
     "originalTitle": "struct_image_5",
     "originalFilename": "struct_image_5.jpg",
     "uploadedAt": "2026-04-30T11:38:35.061Z",
@@ -6878,11 +6786,12 @@
         "url": "http://localhost:4000/uploads/21e0be62-d51d-46ec-be85-b683884a2384-struct_image_5-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "906b65a1-53b0-481b-818f-40fdb3f73826",
-    "title": "struct_image_7",
+    "title": "Calatrava buildings, Valencia, Spain",
     "originalTitle": "struct_image_7",
     "originalFilename": "struct_image_7.jpg",
     "uploadedAt": "2026-04-30T11:38:35.375Z",
@@ -6914,7 +6823,8 @@
         "url": "http://localhost:4000/uploads/ecbfc651-6a89-461f-83e0-2a411a9ca5ab-struct_image_7-m.webp",
         "price": 25
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "ec827541-2f9a-4601-9d82-a7b7ee88c316",
@@ -6955,7 +6865,7 @@
   },
   {
     "id": "48f546a6-33b5-4f21-8544-4ff65cdeb76f",
-    "title": "Venise_image_2",
+    "title": "Shopping break, Venice",
     "originalTitle": "Venise_image_2",
     "originalFilename": "Venise_image_2.jpg",
     "uploadedAt": "2026-04-30T11:39:40.308Z",
@@ -6987,11 +6897,12 @@
         "url": "http://localhost:4000/uploads/f62d038f-b621-4eee-b320-8cf34ff2127e-Venise_image_2-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "f76dbd4c-977e-4a4d-aa91-126ef091b54f",
-    "title": "Venise_image_4",
+    "title": "Only stairs in Venice",
     "originalTitle": "Venise_image_4",
     "originalFilename": "Venise_image_4.jpg",
     "uploadedAt": "2026-04-30T11:39:40.703Z",
@@ -7023,11 +6934,12 @@
         "url": "http://localhost:4000/uploads/6bc3d90e-48db-4497-9d15-78a78e3ad2d6-Venise_image_4-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "f9a1d1a7-14cf-485c-b315-2ad9eb2d524c",
-    "title": "Venise_image_7",
+    "title": "Gondoliere, Venice",
     "originalTitle": "Venise_image_7",
     "originalFilename": "Venise_image_7.jpg",
     "uploadedAt": "2026-04-30T11:39:41.267Z",
@@ -7059,11 +6971,12 @@
         "url": "http://localhost:4000/uploads/28c786ab-6036-4eba-ae08-c1cc309c3df3-Venise_image_7-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "fe13950d-b52a-453e-9da7-adbf7d3fece6",
-    "title": "Venise_image_9",
+    "title": "Local meeting, Venice",
     "originalTitle": "Venise_image_9",
     "originalFilename": "Venise_image_9.jpg",
     "uploadedAt": "2026-04-30T11:39:41.576Z",
@@ -7095,7 +7008,8 @@
         "url": "http://localhost:4000/uploads/cf968a55-a07b-46f5-b781-ef4c2be15e3c-Venise_image_9-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "c3202703-6f55-414a-95e9-69847d2dfac4",
@@ -7318,7 +7232,7 @@
   },
   {
     "id": "afae4b23-2eb4-4ead-93ab-28347cc02f26",
-    "title": "Spain",
+    "title": "Alhambra, Granada, Spain",
     "originalTitle": "20260114-IMGL0718",
     "originalFilename": "20260114-IMGL0718.jpg",
     "uploadedAt": "2026-05-04T20:01:27.930Z",
@@ -7350,11 +7264,12 @@
         "url": "http://localhost:4000/uploads/1bef4833-ced5-400b-b914-06885bb77c6a-20260114-IMGL0718-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "53a5299f-761c-44b7-8b95-b860c766b236",
-    "title": "Palast, Granada, Spain",
+    "title": "Palace, Granada, Spain",
     "originalTitle": "20260114-IMGL0801",
     "originalFilename": "20260114-IMGL0801.jpg",
     "uploadedAt": "2026-05-04T20:01:29.076Z",
@@ -7391,7 +7306,7 @@
   },
   {
     "id": "d3933d2d-52f0-4e2e-aec2-49ad84fb85d6",
-    "title": "Spain",
+    "title": "House not for sale, Spain",
     "originalTitle": "20260131-IMGL0844",
     "originalFilename": "20260131-IMGL0844.jpg",
     "uploadedAt": "2026-05-04T20:01:30.043Z",
@@ -7423,11 +7338,12 @@
         "url": "http://localhost:4000/uploads/18e687cc-09d9-4d97-a767-381663f50823-20260131-IMGL0844-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "9bfe077d-d35a-42d2-809c-9194dec173cb",
-    "title": "Spain",
+    "title": "Take a break, Spain",
     "originalTitle": "20260131-IMGL0883",
     "originalFilename": "20260131-IMGL0883.jpg",
     "uploadedAt": "2026-05-04T20:01:31.258Z",
@@ -7459,11 +7375,12 @@
         "url": "http://localhost:4000/uploads/b35faede-b5a1-409c-8bc1-11e22dfcb82b-20260131-IMGL0883-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "4a388786-3135-4a12-adfc-f29ccae758a1",
-    "title": "Spain",
+    "title": "In front of a café, Spain",
     "originalTitle": "20260131-IMGL0884-Edit",
     "originalFilename": "20260131-IMGL0884-Edit.jpg",
     "uploadedAt": "2026-05-04T20:01:31.929Z",
@@ -7495,11 +7412,12 @@
         "url": "http://localhost:4000/uploads/b86ba91c-dd65-4235-98f1-cc1e0240e41b-20260131-IMGL0884-Edit-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "8bca8f24-6a00-4e6d-b9d8-f4c7d226df9b",
-    "title": "Spain",
+    "title": "Building, Old center, Malaga, Spain",
     "originalTitle": "20260212-IMGL1127",
     "originalFilename": "20260212-IMGL1127.jpg",
     "uploadedAt": "2026-05-04T20:01:32.963Z",
@@ -7536,7 +7454,7 @@
   },
   {
     "id": "41aa46cf-d9e9-4cb8-b5ab-bea23eeab695",
-    "title": "Spain",
+    "title": "Pass By, Spain",
     "originalTitle": "20260218-_DSF0019",
     "originalFilename": "20260218-_DSF0019.jpg",
     "uploadedAt": "2026-05-04T20:01:33.421Z",
@@ -7568,11 +7486,12 @@
         "url": "http://localhost:4000/uploads/71e7f030-4427-4f41-afa0-f0927ada6103-20260218-_DSF0019-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "850d6bc1-9fcc-45ae-a5ff-490953099a0d",
-    "title": "Spain",
+    "title": "White House, Spain",
     "originalTitle": "20260221-IMGL1207",
     "originalFilename": "20260221-IMGL1207.jpg",
     "uploadedAt": "2026-05-04T20:01:34.088Z",
@@ -7604,11 +7523,12 @@
         "url": "http://localhost:4000/uploads/c14858b1-bd1a-4e32-9617-280a2c96172b-20260221-IMGL1207-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "1ab53d18-280d-4a84-91d3-16faf0f6a50a",
-    "title": "Spain",
+    "title": "Church, Spain",
     "originalTitle": "20260221-IMGL1219",
     "originalFilename": "20260221-IMGL1219.jpg",
     "uploadedAt": "2026-05-04T20:01:34.635Z",
@@ -7640,11 +7560,12 @@
         "url": "http://localhost:4000/uploads/41af26ce-725b-43bf-a6d3-988ed34b334b-20260221-IMGL1219-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "3ca9f3ca-9e10-4d61-bdb7-5e766072472c",
-    "title": "Spain",
+    "title": "White facades, Spain",
     "originalTitle": "20260221-IMGL1250",
     "originalFilename": "20260221-IMGL1250.jpg",
     "uploadedAt": "2026-05-04T20:01:35.252Z",
@@ -7676,11 +7597,12 @@
         "url": "http://localhost:4000/uploads/7483e98f-6169-4862-8a32-6595ca3d0d43-20260221-IMGL1250-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "40a48a00-fbb1-4587-b783-a1c8ba57bc87",
-    "title": "Spain",
+    "title": "Modern architecture, Spain",
     "originalTitle": "20260222-DSCF0040",
     "originalFilename": "20260222-DSCF0040.jpg",
     "uploadedAt": "2026-05-04T20:01:36.724Z",
@@ -7712,11 +7634,12 @@
         "url": "http://localhost:4000/uploads/e03983b8-118a-4d14-b9a2-74161e53f72e-20260222-DSCF0040-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "1d64bf6c-2bfa-4b20-a5fc-f7c7fa267296",
-    "title": "Spain",
+    "title": "Typical street, Spain",
     "originalTitle": "20260225-DSCF0042",
     "originalFilename": "20260225-DSCF0042.jpg",
     "uploadedAt": "2026-05-04T20:01:37.324Z",
@@ -7748,11 +7671,12 @@
         "url": "http://localhost:4000/uploads/e63e3639-11be-4b2e-900b-404299558a54-20260225-DSCF0042-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "6a47a2fa-8e38-4d23-a289-9d9697b60234",
-    "title": "Spain",
+    "title": "Color matching, Spain",
     "originalTitle": "20260225-DSCF0049",
     "originalFilename": "20260225-DSCF0049.jpg",
     "uploadedAt": "2026-05-04T20:01:37.907Z",
@@ -7784,11 +7708,12 @@
         "url": "http://localhost:4000/uploads/4dd90c2a-1ba6-479b-a153-ce0fcf1cbc9b-20260225-DSCF0049-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "58f11ca1-eca0-4d2a-ae6b-ab27ce350e34",
-    "title": "Spain",
+    "title": "Balcony, Spain",
     "originalTitle": "20260302-IMGC1575",
     "originalFilename": "20260302-IMGC1575.jpg",
     "uploadedAt": "2026-05-04T20:01:38.739Z",
@@ -7820,11 +7745,12 @@
         "url": "http://localhost:4000/uploads/639f7ae9-9ec4-4b70-8ada-c967aaed9792-20260302-IMGC1575-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "5f7f3aac-cf33-48cc-8fa2-21b9a9bfcc31",
-    "title": "Spain",
+    "title": "Shop front, Malaga, Spain",
     "originalTitle": "20260302-IMGL1512",
     "originalFilename": "20260302-IMGL1512.jpg",
     "uploadedAt": "2026-05-04T20:01:39.168Z",
@@ -7856,11 +7782,12 @@
         "url": "http://localhost:4000/uploads/8d352121-10f8-4e4f-bd8c-117fcabf33a6-20260302-IMGL1512-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "2fd75800-033e-4f49-aaa6-fe87b9049065",
-    "title": "Spain",
+    "title": "Landscape, Andalucia, Spain",
     "originalTitle": "20260305-IMGL1628",
     "originalFilename": "20260305-IMGL1628.jpg",
     "uploadedAt": "2026-05-04T20:01:39.773Z",
@@ -7892,11 +7819,12 @@
         "url": "http://localhost:4000/uploads/5ac257cc-c7eb-43ca-afd3-a71eee668bdd-20260305-IMGL1628-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "ee3c29c4-3d13-422a-b647-52238550e7c4",
-    "title": "Spain",
+    "title": "Landscape Andalucia, Spain",
     "originalTitle": "20260305-IMGL1656-Edit-Edit",
     "originalFilename": "20260305-IMGL1656-Edit-Edit.jpg",
     "uploadedAt": "2026-05-04T20:01:40.268Z",
@@ -7928,11 +7856,12 @@
         "url": "http://localhost:4000/uploads/275902fa-6bc1-4b26-a592-c7a573da5912-20260305-IMGL1656-Edit-Edit-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "c474be0e-70c4-4078-ad03-2bf25eaea6f4",
-    "title": "Spain",
+    "title": "Rocks formation, Spain",
     "originalTitle": "20260305-IMGL1755",
     "originalFilename": "20260305-IMGL1755.jpg",
     "uploadedAt": "2026-05-04T20:01:41.336Z",
@@ -7964,11 +7893,12 @@
         "url": "http://localhost:4000/uploads/1db950c2-1fb8-4f76-b049-16532eaf5470-20260305-IMGL1755-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "5c57ad3a-263e-488b-9b9e-091febe6ec73",
-    "title": "Spain",
+    "title": "Landcape, Andalucia, Spain",
     "originalTitle": "20260305-IMGL1842",
     "originalFilename": "20260305-IMGL1842.jpg",
     "uploadedAt": "2026-05-04T20:01:41.933Z",
@@ -8005,7 +7935,7 @@
   },
   {
     "id": "8abf7ab2-ab36-4af4-9f09-626e758b2694",
-    "title": "Spain",
+    "title": "Patio, Spain",
     "originalTitle": "20260311-DSCF0318",
     "originalFilename": "20260311-DSCF0318.jpg",
     "uploadedAt": "2026-05-04T20:01:42.934Z",
@@ -8037,11 +7967,12 @@
         "url": "http://localhost:4000/uploads/43962bfb-7cd8-4860-ad52-bdc4158f2635-20260311-DSCF0318-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "72d8fdf5-c4d1-4aa5-9e79-ba879b70f364",
-    "title": "Spain",
+    "title": "Street, Malaga, Spain",
     "originalTitle": "20260311-DSCF0356",
     "originalFilename": "20260311-DSCF0356.jpg",
     "uploadedAt": "2026-05-04T20:01:43.631Z",
@@ -8073,7 +8004,8 @@
         "url": "http://localhost:4000/uploads/bfa0b41b-6f1e-4c1b-aa41-c053057aed01-20260311-DSCF0356-l.webp",
         "price": 40
       }
-    }
+    },
+    "price": 40
   },
   {
     "id": "c277e035-19d2-488a-a99b-0e6a3b439a1c",
